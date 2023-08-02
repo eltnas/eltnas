@@ -1,4 +1,4 @@
-<iframe src="https://giphy.com/embed/26n5ZGGuIEw3VKC6Q" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/work-office-working-26n5ZGGuIEw3VKC6Q">via GIPHY</a></p>
+<p><a href="https://giphy.com/gifs/work-office-working-26n5ZGGuIEw3VKC6Q">via GIPHY</a></p>
 
 ## Oi, sou o Elton Carlos do Nascimento, Engenheiro de Software em formação!
 <div align="center">
